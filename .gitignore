@@ -31,8 +31,3 @@ build/
 
 ### VS Code ###
 .vscode/
-<<<<<<< HEAD
-/src/main/resources/application
-=======
-/src/main/resources/
->>>>>>> master
