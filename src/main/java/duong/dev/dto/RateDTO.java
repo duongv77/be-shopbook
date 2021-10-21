@@ -1,0 +1,16 @@
+package duong.dev.dto;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
+public class RateDTO {
+	private Integer id;
+	
+	//2 trường khóa ngoại
+	
+	private Integer vote;
+}
